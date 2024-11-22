@@ -1,4 +1,4 @@
-# PresenceEye AI Model README
+# PresenceEye AI Model
 ## 1. Introduction
    Purpose:
    PresenceEye is an AI-powered solution designed to detect human presence in indoor spaces. The core model, **[BEST](Models/best_v0.pt)**, is built on the YOLOv8 architecture and is currently trained to detect human presence, but due to limited data, it incorrectly classifies everyone as being in the "sitting" position. This is a result of training on a dataset where the model has only been exposed to the sitting activity, and thus, it fails to differentiate between sitting, standing,basic gestures or walking.
