@@ -23,5 +23,5 @@ The development of the model progresses weekly, with continuous additions of new
 These metrics reflect the performance of the best.pt model, which is currently overfitting to detect sitting only. The next steps will involve training with a more varied dataset to prevent confusion and improve the model's accuracy in distinguishing different human activities.
 
 For more details regarding the ongoing progress of the model, please refer to the 
-current version.
+[current version](Documentation/Week_1_Report.md).
 
