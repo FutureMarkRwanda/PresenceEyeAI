@@ -1,6 +1,6 @@
 # PresenceEye AI Model: Weekly Progress Report
 
-## Week 1 (v1.0)
+## Week 1 (v0.0.1)
 
 ### Introduction
 The PresenceEye AI model is an intelligent system designed to optimize energy usage by detecting human activities and gestures such as sitting, standing, walking, and basic gestures. This week focused on detecting the "sitting" class, with plans to expand to other activities and gestures in future iterations.
