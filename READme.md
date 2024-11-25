@@ -9,7 +9,7 @@ Weekly Evaluation Plan:
 The development of the model progresses weekly, with continuous additions of new data to improve performance. Each week, the model is trained and evaluated, focusing on correcting its current over-simplification (i.e., detecting only sitting). Key performance metrics such as training loss and validation mAP are tracked, and the model's performance is reviewed to identify areas for improvement. This process ensures the steady progression of the PresenceEye AI model towards more accurate activity detection.
 
 ## 2. Current Version Details
-###   Version: [Week 1](Documentation/Week_1_Report.md)
+###   Version: Pe 0.0 [Week 0](Documentation/Week_1_Report.md)
    The **PresenceEye AI model** (Week 1) is based on the YOLOv8 architecture and is currently limited to detecting the human activity of sitting, due to a training dataset that only included sitting. Because of this, the model incorrectly identifies every human it detects as sitting. This is a known issue, and we plan to address it in the coming weeks by expanding the dataset to include a wider variety of human activities (e.g., standing, walking).
 
 #### Key Details for Current Version:
